@@ -1,31 +1,43 @@
-# Controle de Gastos (Java)
+# Java Projects
 
-Mini projeto feito para praticar lógica de programação em Java: 
-entrada de dados, condicionais, laços de repetição, ArrayList e 
-organização de código em múltiplas classes com métodos estáticos.
+Coleção de projetos e exercícios em Java, feitos como parte da minha 
+trilha de estudos para desenvolvedor backend. Cada pasta é um 
+programa independente, focado em praticar conceitos específicos.
 
-## Sobre o projeto
+## 📂 Projetos
 
-Sistema de terminal simples que permite:
-- Adicionar gastos (descrição + valor, com validação de entrada)
-- Listar todos os gastos cadastrados
-- Calcular o total gasto
+| Projeto | Conceitos praticados |
+|---|---|
+| [controle-de-gastos](./controle-de-gastos) | Scanner, loops (while/for), ArrayList, métodos entre classes, validação de entrada |
 
-## Contexto
+*(mais projetos serão adicionados conforme avanço nos estudos)*
 
-Este projeto foi feito como treino direcionado antes de um projeto 
-maior chamado "Porquinho Financeiro" (controle financeiro com banco 
-de dados), parte do meu roteiro de estudos para dev backend Java. 
-A ideia foi validar na prática conceitos como listas, laços e 
-separação de responsabilidades entre classes, antes de partir para 
-persistência de dados e SQL.
+## 🎯 Objetivo
 
-## Como rodar
+Este repositório é um registro contínuo do meu processo de 
+aprendizado, servindo de base antes de projetos maiores como o 
+futuro "Porquinho Financeiro" (projeto com persistência em banco 
+de dados).
+
+## ▶️ Como rodar um projeto
 
 \`\`\`bash
-javac Menu.java Projeto.java
+cd nome-do-projeto
+javac *.java
 java Menu
 \`\`\`
 
-## Tecnologias
-- Java (sem frameworks, só a biblioteca padrão)
+## 🛠️ Tecnologias
+
+- Java (biblioteca padrão, sem frameworks)
+
+## 📌 Progresso
+
+- [x] Entrada de dados e tipos primitivos
+- [x] Estruturas condicionais
+- [x] Laços de repetição e acumuladores
+- [x] Listas dinâmicas (ArrayList)
+- [x] Organização de código em múltiplas classes
+- [ ] Programação Orientada a Objetos
+- [ ] Tratamento de exceções
+- [ ] Coleções avançadas (HashMap, Set)
