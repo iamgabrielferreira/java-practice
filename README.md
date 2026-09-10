@@ -21,11 +21,9 @@ de dados).
 
 ## ▶️ Como rodar um projeto
 
-\`\`\`bash
 cd nome-do-projeto
 javac *.java
 java Menu
-\`\`\`
 
 ## 🛠️ Tecnologias
 
