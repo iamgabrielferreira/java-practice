@@ -39,3 +39,7 @@ java Menu
 - [ ] Programação Orientada a Objetos
 - [ ] Tratamento de exceções
 - [ ] Coleções avançadas (HashMap, Set)
+
+
+- [LinkedIn](https://www.linkedin.com/in/gabrielferreiradias-ti/)
+- [GitHub](https://github.com/iamgabrielferreira)
